@@ -1,3 +1,2 @@
 # helloworld-python
-those are about my first learn of python(recording my learning 
-this is my first branch
+一些学习的过程性代码
